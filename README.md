@@ -1,7 +1,7 @@
-## Hi there, I'm Rishika  👋
+## 🔮 Welcome to my GitHub potion lab, where I transform ideas into code! Dive in and explore the magic of programming! 🧙‍♂️💡
 
 ### About Me:
-I'm currently a 2nd-year Computer Science student, passionate about learning and building software. I have experience working with several programming languages and frameworks, and I'm diving deeper into AI/ML and full-stack development.
+I'm Rishika, currently a Computer Science Undergraduate, passionate about learning and building software. I have experience working with several programming languages and frameworks, and I'm diving deeper into AI/ML and full-stack development.
 
 ### 💻 Technologies & Skills:
 - **Languages**: Python (NumPy, Pandas, Matplotlib) 🐍, SQL, C, C++, HTML, CSS, JavaScript.
