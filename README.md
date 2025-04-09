@@ -5,8 +5,8 @@ I'm Rishika, currently a Computer Science Undergraduate, passionate about learni
 
 ### 💻 Technologies & Skills:
 - **Languages**: Python (NumPy, Pandas, Matplotlib) 🐍, SQL, C, C++, HTML, CSS, JavaScript.
-- **Frontend Development**: HTML, CSS, JavaScript, React ⚛️(learning), Bootstrap (learning).
-- **Backend Development**: SQL and MongoDB
+- **Frontend Development**: HTML, CSS, JavaScript.
+- **Backend Development**: SQL
 - **AI/ML**: Currently exploring AI/ML technologies and their applications.
 
 ### 🌱 Current Learning:
@@ -27,19 +27,11 @@ I'm Rishika, currently a Computer Science Undergraduate, passionate about learni
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) **JavaScript**: Breathing life into web pages with dynamic interactivity.
 
 
-**Frameworks & Frontend Technologies**
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) **Node.js**: Enabling server-side sorcery with JavaScript.
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) **React**: Crafting dynamic user interfaces with ease and elegance.
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) **Bootstrap**: Accelerating responsive design for a stunning web experience.
-
 ### 🪄 Databases
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) **MongoDB**: Storing magical data in a flexible, document-oriented format.
 - ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) **SQL**: Mastering structured queries for powerful data management.
 
 
 ### Hobbies
-- **💃 Dancing**: Expressing creativity through movement and rhythm.
-- **🎤 Singing**: Channeling my passion for music and performance.
 - **📚 Reading**: Exploring various genres.
 
 ## 📬 Contact Me
